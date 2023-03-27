@@ -1,2 +1,3 @@
-create MySQL schema, with database name as : "employee_system"
-Bow run the spring boot backend in your respective IDE. It'll execute on port : 8080
+- Create MySQL schema, with database name as : "employee_system" </br>
+- Now run the spring boot backend in your respective IDE. It'll execute on port : 8080
+- You can test it in Postman client tool as well before going to frontend.
